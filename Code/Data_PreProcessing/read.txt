@@ -1,0 +1,3 @@
+## Readme
+This folder contains the Preprocessing and EDA files.
+The final sheets for modelling are prepared in the EDA file.
