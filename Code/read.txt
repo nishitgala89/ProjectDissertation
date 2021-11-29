@@ -1,7 +1,8 @@
 ## Readme
 This folder contains the code files segregated across the project with subfolders as 
 1) Data Collection
-2) Data Pre-processing & EDA
-3) Modelling
-4) Utilities
-5) Sentiment Analysis
+2) Data Preparation
+3) Data Pre-processing & EDA
+4) Modelling
+5) Utilities
+6) Sentiment Analysis
