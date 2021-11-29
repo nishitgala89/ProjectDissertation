@@ -16,4 +16,15 @@ The ML algorithms used in the process are as listed below
 ## **Steps involved in the Project**
 1. Data Collection - Data is collected for equity Mutual Funds across UK, Europe developed and Asia develeoped geographies from Morningstar UK website. We have used Selenium for Web Scrapping the data from Morningstar.
 2. Data Preparation - The Data is then prepared to remove the duplicate funds and cleansed using missing value, replacement, dropping un-necessary features, creating new features using feature engineering
-3. Modelling 
+3. Modelling - We have used the above listed Models to predict the Mutual Fund Ratings. In modelling, we have used 5-fold cross validation to check on Overfitting
+
+## **Challenges Faced**
+
+1. We faced the Overfitting issue initially wherein the training accuracy was very high (70-80%) and testing accuracy was very low (45-55%). So it was clear that model was overfitting to the training data.
+2. We observed that the original dataset had same funds repeated multiple times with different names but with same ratings from Morningstar, so we need to consider only 1 fund amond the group of funds for Modelling. We have used below groupby to identify the similar funds and then used the index from group by dataframe to remove the duplicate records.
+3. We performed modelling again and observed that Overfitting was gradually reduced and testing accuracy was nearby with training accuracy, but still we were seeing the model was overfitting to the training data.
+4. To check on overfitting,  We also ensured that dataset is divided into manual split of 75-25 wherein the top 75% data was used for Training and bottom 25% was used for Testing. After this step, we observed that all models was generalizing well and we were getting similar testing and training accuracy.
+5. Additionally, We also tried to perform oversampling of low frequency classes, however that did not help with overfitting.
+
+
+
