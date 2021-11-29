@@ -26,7 +26,7 @@ The ML algorithms used in the process are as listed below
 4. To check on overfitting,  We also ensured that dataset is divided into manual split of 75-25 wherein the top 75% data was used for Training and bottom 25% was used for Testing. After this step, we observed that all models was generalizing well and we were getting similar testing and training accuracy.
 5. Additionally, We also tried to perform oversampling of low frequency classes, however that did not help with overfitting.
 
-##**Results**
+## **Results**
 
 **Part 1 - We have used the CV- 5fold cross validation**
 
