@@ -1,0 +1,2 @@
+## Readme
+This folder contains the Data collection Python Script and corresponding Logging information of the Script Run
