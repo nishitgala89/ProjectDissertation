@@ -1,0 +1,25 @@
+Nishit\Mutual_Fund_Scrapped\Batch_1\MutualFunds_13_to_20.log:61:root - CRITICAL - Issue with URL, Cannot Switch to Iframe Portfolio --> F00000WRZP
+Nishit\Mutual_Fund_Scrapped\Batch_2\MutualFunds.log:72:2021-06-11 18:48:34,169 - CRITICAL - Issue with URL, Cannot Switch to Iframe Portfolio --> F0GBR04RMZ
+Nishit\Mutual_Fund_Scrapped\Batch_2\MutualFunds.log:84:2021-06-11 18:50:25,813 - CRITICAL - Issue with URL, Cannot Switch to Iframe Portfolio --> F0GBR06XPX
+Nishit\Mutual_Fund_Scrapped\Batch_2\MutualFunds.log:99:2021-06-11 18:53:16,639 - CRITICAL - Issue with URL, Cannot Switch to Iframe Portfolio --> F00000YQCX
+Nishit\Mutual_Fund_Scrapped\Batch_6\MutualFunds.log:134:2021-06-12 12:43:47,125 - CRITICAL - Issue with URL, Cannot Switch to Iframe Portfolio --> F00000OWFK
+Nishit\Mutual_Fund_Scrapped\Batch_6\MutualFunds.log:154:2021-06-12 12:45:37,422 - CRITICAL - Issue with URL, Cannot Switch to Iframe Portfolio --> F0GBR053N0
+Nishit\Mutual_Fund_Scrapped\Batch_6\MutualFunds.log:174:2021-06-12 12:49:02,682 - CRITICAL - Issue with URL, Cannot Switch to Iframe Portfolio --> F0GBR04S9M
+Nishit\Mutual_Fund_Scrapped\Batch_6\MutualFunds.log:196:2021-06-12 12:52:12,173 - CRITICAL - Issue with URL, Cannot Switch to Iframe Portfolio --> F00000OO8D
+Nishit\Mutual_Fund_Scrapped\Batch_6\MutualFunds.log:214:2021-06-12 12:54:21,479 - CRITICAL - Issue with URL, Cannot Switch to Iframe Portfolio --> F00000OO8N
+Nishit\Mutual_Fund_Scrapped\Batch_6\MutualFunds.log:242:2021-06-12 12:59:20,205 - CRITICAL - Issue with URL, Cannot Switch to Iframe Portfolio --> F00000MJ6K
+Nishit\Mutual_Fund_Scrapped\Batch_7\MutualFunds.log:87:2021-06-12 13:24:50,291 - CRITICAL - Issue with URL, Cannot Switch to Iframe Portfolio --> F00000WEPE
+Nishit\Mutual_Fund_Scrapped\Batch_7\MutualFunds.log:190:2021-06-12 13:40:31,196 - CRITICAL - Issue with URL, Cannot Switch to Iframe Portfolio --> F00000SK17
+Nishit\Mutual_Fund_Scrapped\Batch_8\MutualFunds.log:52:2021-06-12 14:23:56,525 - CRITICAL - Issue with URL, Cannot Switch to Iframe Portfolio --> F00000MEXO
+Nishit\Mutual_Fund_Scrapped\Batch_8\MutualFunds.log:114:2021-06-12 14:32:56,673 - CRITICAL - Issue with URL, Cannot Switch to Iframe Portfolio --> F00000Y0PH
+Nishit\Mutual_Fund_Scrapped\Batch_8\MutualFunds.log:146:2021-06-12 14:37:16,891 - CRITICAL - Issue with URL, Cannot Switch to Iframe Portfolio --> F0GBR06KYC
+Nishit\Mutual_Fund_Scrapped\Batch_8\MutualFunds.log:160:2021-06-12 14:39:09,797 - CRITICAL - Issue with URL, Cannot Switch to Iframe Portfolio --> F0GBR059Y0
+Nishit\Mutual_Fund_Scrapped\Batch_8\MutualFunds.log:180:2021-06-12 14:42:21,568 - CRITICAL - Issue with URL, Cannot Switch to Iframe Portfolio --> F00000MEXQ
+Nishit\Mutual_Fund_Scrapped\Batch_8\MutualFunds.log:191:2021-06-12 14:43:40,392 - CRITICAL - Issue with URL, Cannot Switch to Iframe Portfolio --> F00000MQQW
+Nishit\Mutual_Fund_Scrapped\Batch_8\MutualFunds.log:203:2021-06-12 14:45:14,516 - CRITICAL - Issue with URL, Cannot Switch to Iframe Portfolio --> F00000NBKE
+Nishit\Mutual_Fund_Scrapped\Batch_8\MutualFunds.log:218:2021-06-12 14:47:18,364 - CRITICAL - Issue with URL, Cannot Switch to Iframe Portfolio --> F0GBR06XR2
+Nishit\Mutual_Fund_Scrapped\Batch_9\MutualFunds.log:50:2021-06-12 15:21:22,638 - CRITICAL - Issue with URL, Cannot Switch to Iframe Portfolio --> F000010NXG
+Nishit\Mutual_Fund_Scrapped\Batch_9\MutualFunds.log:57:2021-06-12 15:22:00,225 - CRITICAL - Issue with URL, Cannot Switch to Iframe Portfolio --> F000010NXJ
+Nishit\Mutual_Fund_Scrapped\Batch_9\MutualFunds.log:107:2021-06-12 15:29:40,919 - CRITICAL - Issue with URL, Cannot Switch to Iframe Portfolio --> F0GBR050J6
+Nishit\Mutual_Fund_Scrapped\Batch_9\MutualFunds.log:207:2021-06-12 15:45:12,644 - CRITICAL - Issue with URL, Cannot Switch to Iframe Portfolio --> F00000WQ4J
+Nishit\Mutual_Fund_Scrapped\Batch_9\MutualFunds.log:252:2021-06-12 15:51:42,703 - CRITICAL - Issue with URL, Cannot Switch to Iframe Portfolio --> F00000UDZA

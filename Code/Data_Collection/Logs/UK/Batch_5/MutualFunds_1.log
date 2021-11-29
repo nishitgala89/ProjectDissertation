@@ -1,0 +1,19 @@
+2021-06-11 23:32:28,484 - INFO - Successfully Loaded URL -->  https://www.morningstar.co.uk/uk/funds/snapshot/snapshot.aspx?id=F0GBR06IE5&tab=3
+2021-06-11 23:32:42,102 - WARNING - Active Share Percent not available for -->  F0GBR06IE5
+2021-06-11 23:32:47,344 - INFO - Detailes Scrapped Successfully for -->  F0GBR06IE5
+2021-06-11 23:32:54,427 - INFO - Successfully Loaded URL -->  https://www.morningstar.co.uk/uk/funds/snapshot/snapshot.aspx?id=F0GBR04NSQ&tab=3
+2021-06-11 23:33:05,343 - INFO - Seems to be a Fund of Fund -->  F0GBR04NSQ
+2021-06-11 23:33:07,204 - WARNING - Unable to switch to Factor Profile table details using button click for -->  F0GBR04NSQ
+2021-06-11 23:33:09,001 - INFO - Detailes Scrapped Successfully for -->  F0GBR04NSQ
+2021-06-11 23:33:15,929 - INFO - Successfully Loaded URL -->  https://www.morningstar.co.uk/uk/funds/snapshot/snapshot.aspx?id=F00000OZZZ&tab=3
+2021-06-11 23:33:26,381 - INFO - Seems to be a Fund of Fund -->  F00000OZZZ
+2021-06-11 23:33:27,944 - WARNING - Unable to switch to Factor Profile table details using button click for -->  F00000OZZZ
+2021-06-11 23:33:29,617 - INFO - Detailes Scrapped Successfully for -->  F00000OZZZ
+2021-06-11 23:33:37,082 - INFO - Successfully Loaded URL -->  https://www.morningstar.co.uk/uk/funds/snapshot/snapshot.aspx?id=F00000OV0F&tab=3
+2021-06-11 23:33:47,729 - INFO - Seems to be a Fund of Fund -->  F00000OV0F
+2021-06-11 23:33:49,338 - WARNING - Unable to switch to Factor Profile table details using button click for -->  F00000OV0F
+2021-06-11 23:33:50,831 - INFO - Detailes Scrapped Successfully for -->  F00000OV0F
+2021-06-11 23:33:57,569 - INFO - Successfully Loaded URL -->  https://www.morningstar.co.uk/uk/funds/snapshot/snapshot.aspx?id=F00000VFT7&tab=3
+2021-06-11 23:34:07,913 - INFO - Seems to be a Fund of Fund -->  F00000VFT7
+2021-06-11 23:34:09,525 - WARNING - Unable to switch to Factor Profile table details using button click for -->  F00000VFT7
+2021-06-11 23:34:11,007 - INFO - Detailes Scrapped Successfully for -->  F00000VFT7

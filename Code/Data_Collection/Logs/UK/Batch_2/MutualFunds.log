@@ -1,0 +1,246 @@
+2021-06-11 18:38:04,804 - INFO - Successfully Loaded URL -->  https://www.morningstar.co.uk/uk/funds/snapshot/snapshot.aspx?id=F000002XX1&tab=3
+2021-06-11 18:38:19,204 - INFO - Detailes Scrapped Successfully for -->  F000002XX1
+2021-06-11 18:38:26,606 - INFO - Successfully Loaded URL -->  https://www.morningstar.co.uk/uk/funds/snapshot/snapshot.aspx?id=F0GBR050DD&tab=3
+2021-06-11 18:38:41,544 - INFO - Detailes Scrapped Successfully for -->  F0GBR050DD
+2021-06-11 18:38:48,395 - INFO - Successfully Loaded URL -->  https://www.morningstar.co.uk/uk/funds/snapshot/snapshot.aspx?id=F0GBR04S31&tab=3
+2021-06-11 18:39:02,487 - INFO - Detailes Scrapped Successfully for -->  F0GBR04S31
+2021-06-11 18:39:12,293 - INFO - Successfully Loaded URL -->  https://www.morningstar.co.uk/uk/funds/snapshot/snapshot.aspx?id=F0GBR050CG&tab=3
+2021-06-11 18:39:28,206 - INFO - Detailes Scrapped Successfully for -->  F0GBR050CG
+2021-06-11 18:39:36,144 - INFO - Successfully Loaded URL -->  https://www.morningstar.co.uk/uk/funds/snapshot/snapshot.aspx?id=F0GBR04FKN&tab=3
+2021-06-11 18:39:51,157 - INFO - Detailes Scrapped Successfully for -->  F0GBR04FKN
+2021-06-11 18:39:57,956 - INFO - Successfully Loaded URL -->  https://www.morningstar.co.uk/uk/funds/snapshot/snapshot.aspx?id=F000002KPD&tab=3
+2021-06-11 18:40:11,769 - WARNING - Active Share Percent not available for -->  F000002KPD
+2021-06-11 18:40:16,833 - INFO - Detailes Scrapped Successfully for -->  F000002KPD
+2021-06-11 18:40:24,562 - INFO - Successfully Loaded URL -->  https://www.morningstar.co.uk/uk/funds/snapshot/snapshot.aspx?id=F00000P77M&tab=3
+2021-06-11 18:40:38,106 - WARNING - Active Share Percent not available for -->  F00000P77M
+2021-06-11 18:40:43,745 - INFO - Detailes Scrapped Successfully for -->  F00000P77M
+2021-06-11 18:40:50,639 - INFO - Successfully Loaded URL -->  https://www.morningstar.co.uk/uk/funds/snapshot/snapshot.aspx?id=F00000P7MS&tab=3
+2021-06-11 18:41:03,940 - WARNING - Active Share Percent not available for -->  F00000P7MS
+2021-06-11 18:41:09,486 - INFO - Detailes Scrapped Successfully for -->  F00000P7MS
+2021-06-11 18:41:15,933 - INFO - Successfully Loaded URL -->  https://www.morningstar.co.uk/uk/funds/snapshot/snapshot.aspx?id=F0GBR04EAV&tab=3
+2021-06-11 18:41:29,335 - WARNING - Active Share Percent not available for -->  F0GBR04EAV
+2021-06-11 18:41:34,621 - INFO - Detailes Scrapped Successfully for -->  F0GBR04EAV
+2021-06-11 18:41:42,258 - INFO - Successfully Loaded URL -->  https://www.morningstar.co.uk/uk/funds/snapshot/snapshot.aspx?id=F00000MTB9&tab=3
+2021-06-11 18:41:55,797 - WARNING - Active Share Percent not available for -->  F00000MTB9
+2021-06-11 18:42:00,989 - INFO - Detailes Scrapped Successfully for -->  F00000MTB9
+2021-06-11 18:42:08,003 - INFO - Successfully Loaded URL -->  https://www.morningstar.co.uk/uk/funds/snapshot/snapshot.aspx?id=F00000V370&tab=3
+2021-06-11 18:42:21,162 - WARNING - Active Share Percent not available for -->  F00000V370
+2021-06-11 18:42:26,126 - INFO - Detailes Scrapped Successfully for -->  F00000V370
+2021-06-11 18:42:32,457 - INFO - Successfully Loaded URL -->  https://www.morningstar.co.uk/uk/funds/snapshot/snapshot.aspx?id=F00000MKL8&tab=3
+2021-06-11 18:42:45,780 - WARNING - Active Share Percent not available for -->  F00000MKL8
+2021-06-11 18:42:50,776 - INFO - Detailes Scrapped Successfully for -->  F00000MKL8
+2021-06-11 18:42:57,232 - INFO - Successfully Loaded URL -->  https://www.morningstar.co.uk/uk/funds/snapshot/snapshot.aspx?id=F000011GGB&tab=3
+2021-06-11 18:43:10,256 - WARNING - Active Share Percent not available for -->  F000011GGB
+2021-06-11 18:43:15,246 - INFO - Detailes Scrapped Successfully for -->  F000011GGB
+2021-06-11 18:43:22,483 - INFO - Successfully Loaded URL -->  https://www.morningstar.co.uk/uk/funds/snapshot/snapshot.aspx?id=F00000OP3E&tab=3
+2021-06-11 18:43:35,537 - WARNING - Active Share Percent not available for -->  F00000OP3E
+2021-06-11 18:43:40,567 - INFO - Detailes Scrapped Successfully for -->  F00000OP3E
+2021-06-11 18:43:47,128 - INFO - Successfully Loaded URL -->  https://www.morningstar.co.uk/uk/funds/snapshot/snapshot.aspx?id=F00000P77X&tab=3
+2021-06-11 18:44:00,179 - WARNING - Active Share Percent not available for -->  F00000P77X
+2021-06-11 18:44:05,165 - INFO - Detailes Scrapped Successfully for -->  F00000P77X
+2021-06-11 18:44:11,730 - INFO - Successfully Loaded URL -->  https://www.morningstar.co.uk/uk/funds/snapshot/snapshot.aspx?id=F0GBR04S5A&tab=3
+2021-06-11 18:44:24,747 - WARNING - Active Share Percent not available for -->  F0GBR04S5A
+2021-06-11 18:44:29,801 - INFO - Detailes Scrapped Successfully for -->  F0GBR04S5A
+2021-06-11 18:44:36,283 - INFO - Successfully Loaded URL -->  https://www.morningstar.co.uk/uk/funds/snapshot/snapshot.aspx?id=F00000X08A&tab=3
+2021-06-11 18:44:49,368 - WARNING - Active Share Percent not available for -->  F00000X08A
+2021-06-11 18:44:54,348 - INFO - Detailes Scrapped Successfully for -->  F00000X08A
+2021-06-11 18:45:01,544 - INFO - Successfully Loaded URL -->  https://www.morningstar.co.uk/uk/funds/snapshot/snapshot.aspx?id=F00000WY1P&tab=3
+2021-06-11 18:45:14,536 - WARNING - Active Share Percent not available for -->  F00000WY1P
+2021-06-11 18:45:19,529 - INFO - Detailes Scrapped Successfully for -->  F00000WY1P
+2021-06-11 18:45:27,253 - INFO - Successfully Loaded URL -->  https://www.morningstar.co.uk/uk/funds/snapshot/snapshot.aspx?id=F00000WY1Q&tab=3
+2021-06-11 18:45:40,315 - WARNING - Active Share Percent not available for -->  F00000WY1Q
+2021-06-11 18:45:45,307 - INFO - Detailes Scrapped Successfully for -->  F00000WY1Q
+2021-06-11 18:45:51,663 - INFO - Successfully Loaded URL -->  https://www.morningstar.co.uk/uk/funds/snapshot/snapshot.aspx?id=F00000WY1R&tab=3
+2021-06-11 18:46:04,711 - WARNING - Active Share Percent not available for -->  F00000WY1R
+2021-06-11 18:46:09,723 - INFO - Detailes Scrapped Successfully for -->  F00000WY1R
+2021-06-11 18:46:16,439 - INFO - Successfully Loaded URL -->  https://www.morningstar.co.uk/uk/funds/snapshot/snapshot.aspx?id=F00001024G&tab=3
+2021-06-11 18:46:30,858 - INFO - Detailes Scrapped Successfully for -->  F00001024G
+2021-06-11 18:46:38,290 - INFO - Successfully Loaded URL -->  https://www.morningstar.co.uk/uk/funds/snapshot/snapshot.aspx?id=F00001024F&tab=3
+2021-06-11 18:46:52,652 - INFO - Detailes Scrapped Successfully for -->  F00001024F
+2021-06-11 18:47:00,237 - INFO - Successfully Loaded URL -->  https://www.morningstar.co.uk/uk/funds/snapshot/snapshot.aspx?id=F00000ZMH5&tab=3
+2021-06-11 18:47:14,552 - INFO - Detailes Scrapped Successfully for -->  F00000ZMH5
+2021-06-11 18:47:21,328 - INFO - Successfully Loaded URL -->  https://www.morningstar.co.uk/uk/funds/snapshot/snapshot.aspx?id=F00000ZMH6&tab=3
+2021-06-11 18:47:35,232 - INFO - Detailes Scrapped Successfully for -->  F00000ZMH6
+2021-06-11 18:47:41,785 - INFO - Successfully Loaded URL -->  https://www.morningstar.co.uk/uk/funds/snapshot/snapshot.aspx?id=F0GBR06P37&tab=3
+2021-06-11 18:47:55,634 - INFO - Detailes Scrapped Successfully for -->  F0GBR06P37
+2021-06-11 18:47:59,766 - INFO - Successfully Loaded URL -->  https://www.morningstar.co.uk/uk/funds/snapshot/snapshot.aspx?id=F0GBR04RMZ&tab=3
+2021-06-11 18:48:03,793 - INFO - No Dialog to Handle
+2021-06-11 18:48:14,916 - INFO - Successfully Loaded URL -->  https://www.morningstar.co.uk/uk/funds/snapshot/snapshot.aspx?id=F0GBR04RMZ&tab=3
+2021-06-11 18:48:14,916 - INFO - No Dialog to handle for ---> F0GBR04RMZ
+2021-06-11 18:48:22,055 - INFO - Successfully Loaded URL -->  https://www.morningstar.co.uk/uk/funds/snapshot/snapshot.aspx?id=F0GBR04RMZ&tab=3
+2021-06-11 18:48:26,088 - INFO - No Dialog to handle for ---> F0GBR04RMZ
+2021-06-11 18:48:34,169 - CRITICAL - Issue with URL, Cannot Switch to Iframe Portfolio --> F0GBR04RMZ
+2021-06-11 18:48:41,192 - INFO - Successfully Loaded URL -->  https://www.morningstar.co.uk/uk/funds/snapshot/snapshot.aspx?id=F0000108JY&tab=3
+2021-06-11 18:48:55,182 - INFO - Detailes Scrapped Successfully for -->  F0000108JY
+2021-06-11 18:49:01,814 - INFO - Successfully Loaded URL -->  https://www.morningstar.co.uk/uk/funds/snapshot/snapshot.aspx?id=F00000ZFZT&tab=3
+2021-06-11 18:49:16,144 - INFO - Detailes Scrapped Successfully for -->  F00000ZFZT
+2021-06-11 18:49:22,795 - INFO - Successfully Loaded URL -->  https://www.morningstar.co.uk/uk/funds/snapshot/snapshot.aspx?id=F00000ZFZU&tab=3
+2021-06-11 18:49:36,991 - INFO - Detailes Scrapped Successfully for -->  F00000ZFZU
+2021-06-11 18:49:43,820 - INFO - Successfully Loaded URL -->  https://www.morningstar.co.uk/uk/funds/snapshot/snapshot.aspx?id=F0GBR06XPX&tab=3
+2021-06-11 18:50:06,595 - INFO - Successfully Loaded URL -->  https://www.morningstar.co.uk/uk/funds/snapshot/snapshot.aspx?id=F0GBR06XPX&tab=3
+2021-06-11 18:50:06,595 - INFO - No Dialog to handle for ---> F0GBR06XPX
+2021-06-11 18:50:13,753 - INFO - Successfully Loaded URL -->  https://www.morningstar.co.uk/uk/funds/snapshot/snapshot.aspx?id=F0GBR06XPX&tab=3
+2021-06-11 18:50:17,764 - INFO - No Dialog to handle for ---> F0GBR06XPX
+2021-06-11 18:50:25,813 - CRITICAL - Issue with URL, Cannot Switch to Iframe Portfolio --> F0GBR06XPX
+2021-06-11 18:50:31,479 - INFO - Successfully Loaded URL -->  https://www.morningstar.co.uk/uk/funds/snapshot/snapshot.aspx?id=F000002X67&tab=3
+2021-06-11 18:50:45,230 - INFO - Detailes Scrapped Successfully for -->  F000002X67
+2021-06-11 18:50:52,467 - INFO - Successfully Loaded URL -->  https://www.morningstar.co.uk/uk/funds/snapshot/snapshot.aspx?id=F00000VHJH&tab=3
+2021-06-11 18:51:06,258 - INFO - Detailes Scrapped Successfully for -->  F00000VHJH
+2021-06-11 18:51:12,577 - INFO - Successfully Loaded URL -->  https://www.morningstar.co.uk/uk/funds/snapshot/snapshot.aspx?id=F00000O0OS&tab=3
+2021-06-11 18:51:26,556 - INFO - Detailes Scrapped Successfully for -->  F00000O0OS
+2021-06-11 18:52:01,325 - INFO - Successfully Loaded URL -->  https://www.morningstar.co.uk/uk/funds/snapshot/snapshot.aspx?id=F0GBR06XPT&tab=3
+2021-06-11 18:52:16,844 - INFO - Detailes Scrapped Successfully for -->  F0GBR06XPT
+2021-06-11 18:52:25,142 - INFO - Successfully Loaded URL -->  https://www.morningstar.co.uk/uk/funds/snapshot/snapshot.aspx?id=F00000O0O2&tab=3
+2021-06-11 18:52:41,009 - INFO - Detailes Scrapped Successfully for -->  F00000O0O2
+2021-06-11 18:52:45,122 - INFO - Successfully Loaded URL -->  https://www.morningstar.co.uk/uk/funds/snapshot/snapshot.aspx?id=F00000YQCX&tab=3
+2021-06-11 18:52:49,188 - INFO - No Dialog to Handle
+2021-06-11 18:53:03,342 - INFO - Successfully Loaded URL -->  https://www.morningstar.co.uk/uk/funds/snapshot/snapshot.aspx?id=F00000YQCX&tab=3
+2021-06-11 18:53:03,342 - INFO - No Dialog to handle for ---> F00000YQCX
+2021-06-11 18:53:16,639 - CRITICAL - Issue with URL, Cannot Switch to Iframe Portfolio --> F00000YQCX
+2021-06-11 18:53:21,982 - INFO - Successfully Loaded URL -->  https://www.morningstar.co.uk/uk/funds/snapshot/snapshot.aspx?id=F00000YQD3&tab=3
+2021-06-11 18:53:26,016 - INFO - No Dialog to Handle
+2021-06-11 18:53:32,620 - INFO - Detailes Scrapped Successfully for -->  F00000YQD3
+2021-06-11 18:53:39,314 - INFO - Successfully Loaded URL -->  https://www.morningstar.co.uk/uk/funds/snapshot/snapshot.aspx?id=F00000YQCN&tab=3
+2021-06-11 18:53:52,927 - WARNING - Active Share Percent not available for -->  F00000YQCN
+2021-06-11 18:53:58,201 - INFO - Detailes Scrapped Successfully for -->  F00000YQCN
+2021-06-11 18:54:05,738 - INFO - Successfully Loaded URL -->  https://www.morningstar.co.uk/uk/funds/snapshot/snapshot.aspx?id=F0000103C7&tab=3
+2021-06-11 18:54:19,028 - WARNING - Active Share Percent not available for -->  F0000103C7
+2021-06-11 18:54:24,064 - INFO - Detailes Scrapped Successfully for -->  F0000103C7
+2021-06-11 18:54:31,954 - INFO - Successfully Loaded URL -->  https://www.morningstar.co.uk/uk/funds/snapshot/snapshot.aspx?id=F0000103C8&tab=3
+2021-06-11 18:54:45,522 - WARNING - Active Share Percent not available for -->  F0000103C8
+2021-06-11 18:54:50,545 - INFO - Detailes Scrapped Successfully for -->  F0000103C8
+2021-06-11 18:55:04,090 - INFO - Successfully Loaded URL -->  https://www.morningstar.co.uk/uk/funds/snapshot/snapshot.aspx?id=F0000103C9&tab=3
+2021-06-11 18:55:17,088 - WARNING - Active Share Percent not available for -->  F0000103C9
+2021-06-11 18:55:22,105 - INFO - Detailes Scrapped Successfully for -->  F0000103C9
+2021-06-11 18:55:30,074 - INFO - Successfully Loaded URL -->  https://www.morningstar.co.uk/uk/funds/snapshot/snapshot.aspx?id=F000014I6G&tab=3
+2021-06-11 18:55:44,552 - INFO - Detailes Scrapped Successfully for -->  F000014I6G
+2021-06-11 18:55:53,648 - INFO - Successfully Loaded URL -->  https://www.morningstar.co.uk/uk/funds/snapshot/snapshot.aspx?id=F000014I6I&tab=3
+2021-06-11 18:56:09,178 - INFO - Detailes Scrapped Successfully for -->  F000014I6I
+2021-06-11 18:56:17,328 - INFO - Successfully Loaded URL -->  https://www.morningstar.co.uk/uk/funds/snapshot/snapshot.aspx?id=F000014I6M&tab=3
+2021-06-11 18:56:30,456 - WARNING - Active Share Percent not available for -->  F000014I6M
+2021-06-11 18:56:35,548 - INFO - Detailes Scrapped Successfully for -->  F000014I6M
+2021-06-11 18:56:42,226 - INFO - Successfully Loaded URL -->  https://www.morningstar.co.uk/uk/funds/snapshot/snapshot.aspx?id=F0GBR04APW&tab=3
+2021-06-11 18:56:56,620 - INFO - Detailes Scrapped Successfully for -->  F0GBR04APW
+2021-06-11 18:57:04,514 - INFO - Successfully Loaded URL -->  https://www.morningstar.co.uk/uk/funds/snapshot/snapshot.aspx?id=0P0000VHN0&tab=3
+2021-06-11 18:57:18,712 - INFO - Detailes Scrapped Successfully for -->  0P0000VHN0
+2021-06-11 18:57:26,714 - INFO - Successfully Loaded URL -->  https://www.morningstar.co.uk/uk/funds/snapshot/snapshot.aspx?id=0P0000VHN1&tab=3
+2021-06-11 18:57:41,079 - INFO - Detailes Scrapped Successfully for -->  0P0000VHN1
+2021-06-11 18:57:54,929 - INFO - Successfully Loaded URL -->  https://www.morningstar.co.uk/uk/funds/snapshot/snapshot.aspx?id=F0000020SC&tab=3
+2021-06-11 18:58:09,980 - INFO - Detailes Scrapped Successfully for -->  F0000020SC
+2021-06-11 18:58:19,407 - INFO - Successfully Loaded URL -->  https://www.morningstar.co.uk/uk/funds/snapshot/snapshot.aspx?id=0P0000VHN2&tab=3
+2021-06-11 18:58:55,162 - INFO - Detailes Scrapped Successfully for -->  0P0000VHN2
+2021-06-11 18:59:03,394 - INFO - Successfully Loaded URL -->  https://www.morningstar.co.uk/uk/funds/snapshot/snapshot.aspx?id=0P0000X5CU&tab=3
+2021-06-11 18:59:17,932 - INFO - Detailes Scrapped Successfully for -->  0P0000X5CU
+2021-06-11 18:59:25,607 - INFO - Successfully Loaded URL -->  https://www.morningstar.co.uk/uk/funds/snapshot/snapshot.aspx?id=F00000XVRP&tab=3
+2021-06-11 18:59:39,737 - INFO - Detailes Scrapped Successfully for -->  F00000XVRP
+2021-06-11 18:59:46,424 - INFO - Successfully Loaded URL -->  https://www.morningstar.co.uk/uk/funds/snapshot/snapshot.aspx?id=F0GBR04ARJ&tab=3
+2021-06-11 19:00:00,518 - INFO - Detailes Scrapped Successfully for -->  F0GBR04ARJ
+2021-06-11 19:00:14,988 - INFO - Successfully Loaded URL -->  https://www.morningstar.co.uk/uk/funds/snapshot/snapshot.aspx?id=0P0000RZ3H&tab=3
+2021-06-11 19:00:29,981 - INFO - Detailes Scrapped Successfully for -->  0P0000RZ3H
+2021-06-11 19:00:37,881 - INFO - Successfully Loaded URL -->  https://www.morningstar.co.uk/uk/funds/snapshot/snapshot.aspx?id=F000000F9X&tab=3
+2021-06-11 19:00:59,850 - INFO - Detailes Scrapped Successfully for -->  F000000F9X
+2021-06-11 19:01:08,792 - INFO - Successfully Loaded URL -->  https://www.morningstar.co.uk/uk/funds/snapshot/snapshot.aspx?id=0P0000VHOE&tab=3
+2021-06-11 19:01:25,036 - INFO - Detailes Scrapped Successfully for -->  0P0000VHOE
+2021-06-11 19:01:32,905 - INFO - Successfully Loaded URL -->  https://www.morningstar.co.uk/uk/funds/snapshot/snapshot.aspx?id=F0000020MO&tab=3
+2021-06-11 19:01:48,515 - INFO - Detailes Scrapped Successfully for -->  F0000020MO
+2021-06-11 19:01:59,584 - INFO - Successfully Loaded URL -->  https://www.morningstar.co.uk/uk/funds/snapshot/snapshot.aspx?id=0P0000VHOG&tab=3
+2021-06-11 19:02:15,100 - INFO - Detailes Scrapped Successfully for -->  0P0000VHOG
+2021-06-11 19:02:22,698 - INFO - Successfully Loaded URL -->  https://www.morningstar.co.uk/uk/funds/snapshot/snapshot.aspx?id=F00001071O&tab=3
+2021-06-11 19:03:08,466 - INFO - Detailes Scrapped Successfully for -->  F00001071O
+2021-06-11 19:03:16,222 - INFO - Successfully Loaded URL -->  https://www.morningstar.co.uk/uk/funds/snapshot/snapshot.aspx?id=F00000ONYS&tab=3
+2021-06-11 19:03:29,622 - INFO - Detailes Scrapped Successfully for -->  F00000ONYS
+2021-06-11 19:03:39,591 - INFO - Successfully Loaded URL -->  https://www.morningstar.co.uk/uk/funds/snapshot/snapshot.aspx?id=F0GBR06IQR&tab=3
+2021-06-11 19:03:57,567 - INFO - Detailes Scrapped Successfully for -->  F0GBR06IQR
+2021-06-11 19:04:06,989 - INFO - Successfully Loaded URL -->  https://www.morningstar.co.uk/uk/funds/snapshot/snapshot.aspx?id=F00000MQUX&tab=3
+2021-06-11 19:04:21,434 - INFO - Detailes Scrapped Successfully for -->  F00000MQUX
+2021-06-11 19:04:28,528 - INFO - Successfully Loaded URL -->  https://www.morningstar.co.uk/uk/funds/snapshot/snapshot.aspx?id=F0GBR06IQT&tab=3
+2021-06-11 19:04:42,664 - INFO - Detailes Scrapped Successfully for -->  F0GBR06IQT
+2021-06-11 19:04:53,787 - INFO - Successfully Loaded URL -->  https://www.morningstar.co.uk/uk/funds/snapshot/snapshot.aspx?id=F0GBR04ELG&tab=3
+2021-06-11 19:05:07,880 - INFO - Detailes Scrapped Successfully for -->  F0GBR04ELG
+2021-06-11 19:05:14,443 - INFO - Successfully Loaded URL -->  https://www.morningstar.co.uk/uk/funds/snapshot/snapshot.aspx?id=F00000J007&tab=3
+2021-06-11 19:05:28,628 - INFO - Detailes Scrapped Successfully for -->  F00000J007
+2021-06-11 19:05:36,555 - INFO - Successfully Loaded URL -->  https://www.morningstar.co.uk/uk/funds/snapshot/snapshot.aspx?id=F00000T33V&tab=3
+2021-06-11 19:05:50,851 - INFO - Detailes Scrapped Successfully for -->  F00000T33V
+2021-06-11 19:06:12,833 - INFO - Successfully Loaded URL -->  https://www.morningstar.co.uk/uk/funds/snapshot/snapshot.aspx?id=F000010KU7&tab=3
+2021-06-11 19:06:26,900 - INFO - Detailes Scrapped Successfully for -->  F000010KU7
+2021-06-11 19:06:33,186 - INFO - Successfully Loaded URL -->  https://www.morningstar.co.uk/uk/funds/snapshot/snapshot.aspx?id=F0GBR04RTV&tab=3
+2021-06-11 19:06:50,302 - INFO - Detailes Scrapped Successfully for -->  F0GBR04RTV
+2021-06-11 19:07:00,234 - INFO - Successfully Loaded URL -->  https://www.morningstar.co.uk/uk/funds/snapshot/snapshot.aspx?id=F00000MJPT&tab=3
+2021-06-11 19:07:15,459 - INFO - Detailes Scrapped Successfully for -->  F00000MJPT
+2021-06-11 19:07:22,675 - INFO - Successfully Loaded URL -->  https://www.morningstar.co.uk/uk/funds/snapshot/snapshot.aspx?id=F00000VFX1&tab=3
+2021-06-11 19:07:36,687 - INFO - Detailes Scrapped Successfully for -->  F00000VFX1
+2021-06-11 19:07:45,355 - INFO - Successfully Loaded URL -->  https://www.morningstar.co.uk/uk/funds/snapshot/snapshot.aspx?id=F00000WNYU&tab=3
+2021-06-11 19:08:00,985 - INFO - Detailes Scrapped Successfully for -->  F00000WNYU
+2021-06-11 19:08:07,288 - INFO - Successfully Loaded URL -->  https://www.morningstar.co.uk/uk/funds/snapshot/snapshot.aspx?id=F0GBR04RTX&tab=3
+2021-06-11 19:08:21,253 - INFO - Detailes Scrapped Successfully for -->  F0GBR04RTX
+2021-06-11 19:08:33,867 - INFO - Successfully Loaded URL -->  https://www.morningstar.co.uk/uk/funds/snapshot/snapshot.aspx?id=F00000HHAW&tab=3
+2021-06-11 19:08:47,927 - INFO - Detailes Scrapped Successfully for -->  F00000HHAW
+2021-06-11 19:08:58,561 - INFO - Successfully Loaded URL -->  https://www.morningstar.co.uk/uk/funds/snapshot/snapshot.aspx?id=F00000VFW6&tab=3
+2021-06-11 19:09:28,414 - INFO - Detailes Scrapped Successfully for -->  F00000VFW6
+2021-06-11 19:09:47,362 - INFO - Successfully Loaded URL -->  https://www.morningstar.co.uk/uk/funds/snapshot/snapshot.aspx?id=F0GBR04EM8&tab=3
+2021-06-11 19:10:09,454 - WARNING - Active Share Percent not available for -->  F0GBR04EM8
+2021-06-11 19:10:14,512 - INFO - Detailes Scrapped Successfully for -->  F0GBR04EM8
+2021-06-11 19:10:21,057 - INFO - Successfully Loaded URL -->  https://www.morningstar.co.uk/uk/funds/snapshot/snapshot.aspx?id=F0GBR04CJ2&tab=3
+2021-06-11 19:10:34,274 - WARNING - Active Share Percent not available for -->  F0GBR04CJ2
+2021-06-11 19:10:39,264 - INFO - Detailes Scrapped Successfully for -->  F0GBR04CJ2
+2021-06-11 19:10:47,910 - INFO - Successfully Loaded URL -->  https://www.morningstar.co.uk/uk/funds/snapshot/snapshot.aspx?id=F0GBR04DHW&tab=3
+2021-06-11 19:11:02,052 - INFO - Detailes Scrapped Successfully for -->  F0GBR04DHW
+2021-06-11 19:11:09,625 - INFO - Successfully Loaded URL -->  https://www.morningstar.co.uk/uk/funds/snapshot/snapshot.aspx?id=F0GBR053M8&tab=3
+2021-06-11 19:11:23,794 - INFO - Detailes Scrapped Successfully for -->  F0GBR053M8
+2021-06-11 19:11:31,215 - INFO - Successfully Loaded URL -->  https://www.morningstar.co.uk/uk/funds/snapshot/snapshot.aspx?id=F00000Q9TV&tab=3
+2021-06-11 19:11:45,321 - INFO - Detailes Scrapped Successfully for -->  F00000Q9TV
+2021-06-11 19:11:52,248 - INFO - Successfully Loaded URL -->  https://www.morningstar.co.uk/uk/funds/snapshot/snapshot.aspx?id=F00000Q9TT&tab=3
+2021-06-11 19:12:06,950 - INFO - Detailes Scrapped Successfully for -->  F00000Q9TT
+2021-06-11 19:12:13,492 - INFO - Successfully Loaded URL -->  https://www.morningstar.co.uk/uk/funds/snapshot/snapshot.aspx?id=F00000Q9TU&tab=3
+2021-06-11 19:12:27,681 - INFO - Detailes Scrapped Successfully for -->  F00000Q9TU
+2021-06-11 19:12:35,975 - INFO - Successfully Loaded URL -->  https://www.morningstar.co.uk/uk/funds/snapshot/snapshot.aspx?id=F0GBR04SD6&tab=3
+2021-06-11 19:12:50,058 - INFO - Detailes Scrapped Successfully for -->  F0GBR04SD6
+2021-06-11 19:12:56,792 - INFO - Successfully Loaded URL -->  https://www.morningstar.co.uk/uk/funds/snapshot/snapshot.aspx?id=F00000OT4O&tab=3
+2021-06-11 19:13:10,832 - INFO - Detailes Scrapped Successfully for -->  F00000OT4O
+2021-06-11 19:13:21,151 - INFO - Successfully Loaded URL -->  https://www.morningstar.co.uk/uk/funds/snapshot/snapshot.aspx?id=F0GBR04RSL&tab=3
+2021-06-11 19:13:42,625 - INFO - Detailes Scrapped Successfully for -->  F0GBR04RSL
+2021-06-11 19:13:52,028 - INFO - Successfully Loaded URL -->  https://www.morningstar.co.uk/uk/funds/snapshot/snapshot.aspx?id=F0GBR04CIN&tab=3
+2021-06-11 19:14:09,547 - INFO - Detailes Scrapped Successfully for -->  F0GBR04CIN
+2021-06-11 19:14:15,949 - INFO - Successfully Loaded URL -->  https://www.morningstar.co.uk/uk/funds/snapshot/snapshot.aspx?id=F000003W7H&tab=3
+2021-06-11 19:14:30,413 - INFO - Detailes Scrapped Successfully for -->  F000003W7H
+2021-06-11 19:14:36,800 - INFO - Successfully Loaded URL -->  https://www.morningstar.co.uk/uk/funds/snapshot/snapshot.aspx?id=F0GBR04FIF&tab=3
+2021-06-11 19:14:51,832 - INFO - Detailes Scrapped Successfully for -->  F0GBR04FIF
+2021-06-11 19:14:59,086 - INFO - Successfully Loaded URL -->  https://www.morningstar.co.uk/uk/funds/snapshot/snapshot.aspx?id=F00000OT4M&tab=3
+2021-06-11 19:15:13,670 - INFO - Detailes Scrapped Successfully for -->  F00000OT4M
+2021-06-11 19:15:21,054 - INFO - Successfully Loaded URL -->  https://www.morningstar.co.uk/uk/funds/snapshot/snapshot.aspx?id=F0GBR06DJP&tab=3
+2021-06-11 19:15:34,305 - WARNING - Active Share Percent not available for -->  F0GBR06DJP
+2021-06-11 19:15:39,777 - INFO - Detailes Scrapped Successfully for -->  F0GBR06DJP
+2021-06-11 19:15:46,734 - INFO - Successfully Loaded URL -->  https://www.morningstar.co.uk/uk/funds/snapshot/snapshot.aspx?id=F0GBR06DJQ&tab=3
+2021-06-11 19:16:00,192 - WARNING - Active Share Percent not available for -->  F0GBR06DJQ
+2021-06-11 19:16:05,880 - INFO - Detailes Scrapped Successfully for -->  F0GBR06DJQ
+2021-06-11 19:16:13,307 - INFO - Successfully Loaded URL -->  https://www.morningstar.co.uk/uk/funds/snapshot/snapshot.aspx?id=F00000Z4EO&tab=3
+2021-06-11 19:16:26,770 - WARNING - Active Share Percent not available for -->  F00000Z4EO
+2021-06-11 19:16:31,952 - INFO - Detailes Scrapped Successfully for -->  F00000Z4EO
+2021-06-11 19:16:38,846 - INFO - Successfully Loaded URL -->  https://www.morningstar.co.uk/uk/funds/snapshot/snapshot.aspx?id=F00000OLVY&tab=3
+2021-06-11 19:16:52,220 - WARNING - Active Share Percent not available for -->  F00000OLVY
+2021-06-11 19:16:57,611 - INFO - Detailes Scrapped Successfully for -->  F00000OLVY
+2021-06-11 19:17:07,264 - INFO - Successfully Loaded URL -->  https://www.morningstar.co.uk/uk/funds/snapshot/snapshot.aspx?id=F0GBR04CJR&tab=3
+2021-06-11 19:17:20,587 - WARNING - Active Share Percent not available for -->  F0GBR04CJR
+2021-06-11 19:17:25,725 - INFO - Detailes Scrapped Successfully for -->  F0GBR04CJR
+2021-06-11 19:17:32,871 - INFO - Successfully Loaded URL -->  https://www.morningstar.co.uk/uk/funds/snapshot/snapshot.aspx?id=F0GBR04CJT&tab=3
+2021-06-11 19:17:46,015 - WARNING - Active Share Percent not available for -->  F0GBR04CJT
+2021-06-11 19:17:51,239 - INFO - Detailes Scrapped Successfully for -->  F0GBR04CJT
+2021-06-11 19:17:58,152 - INFO - Successfully Loaded URL -->  https://www.morningstar.co.uk/uk/funds/snapshot/snapshot.aspx?id=F0GBR04CJV&tab=3
+2021-06-11 19:18:11,246 - WARNING - Active Share Percent not available for -->  F0GBR04CJV
+2021-06-11 19:18:16,263 - INFO - Detailes Scrapped Successfully for -->  F0GBR04CJV
+2021-06-11 19:18:23,842 - INFO - Successfully Loaded URL -->  https://www.morningstar.co.uk/uk/funds/snapshot/snapshot.aspx?id=F000003YAQ&tab=3
+2021-06-11 19:18:37,832 - INFO - Detailes Scrapped Successfully for -->  F000003YAQ
+2021-06-11 19:18:44,481 - INFO - Successfully Loaded URL -->  https://www.morningstar.co.uk/uk/funds/snapshot/snapshot.aspx?id=F0GBR0659Q&tab=3
+2021-06-11 19:18:58,386 - INFO - Detailes Scrapped Successfully for -->  F0GBR0659Q
+2021-06-11 19:19:04,828 - INFO - Successfully Loaded URL -->  https://www.morningstar.co.uk/uk/funds/snapshot/snapshot.aspx?id=F00000PIZX&tab=3
+2021-06-11 19:19:18,107 - WARNING - Active Share Percent not available for -->  F00000PIZX
+2021-06-11 19:19:23,045 - INFO - Detailes Scrapped Successfully for -->  F00000PIZX
+2021-06-11 19:19:31,347 - INFO - Successfully Loaded URL -->  https://www.morningstar.co.uk/uk/funds/snapshot/snapshot.aspx?id=F00000PIZT&tab=3
+2021-06-11 19:19:45,174 - WARNING - Active Share Percent not available for -->  F00000PIZT
+2021-06-11 19:19:50,188 - INFO - Detailes Scrapped Successfully for -->  F00000PIZT
+2021-06-11 19:19:57,768 - INFO - Successfully Loaded URL -->  https://www.morningstar.co.uk/uk/funds/snapshot/snapshot.aspx?id=F00000PJ02&tab=3
+2021-06-11 19:20:11,506 - WARNING - Active Share Percent not available for -->  F00000PJ02
+2021-06-11 19:20:16,879 - INFO - Detailes Scrapped Successfully for -->  F00000PJ02
+2021-06-11 19:20:24,356 - INFO - Successfully Loaded URL -->  https://www.morningstar.co.uk/uk/funds/snapshot/snapshot.aspx?id=F00000PIZY&tab=3
+2021-06-11 19:20:37,965 - WARNING - Active Share Percent not available for -->  F00000PIZY
+2021-06-11 19:20:43,126 - INFO - Detailes Scrapped Successfully for -->  F00000PIZY

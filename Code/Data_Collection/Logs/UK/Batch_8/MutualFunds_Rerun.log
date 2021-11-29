@@ -1,0 +1,22 @@
+2021-06-12 16:55:27,135 - INFO - Successfully Loaded URL -->  https://www.morningstar.co.uk/uk/funds/snapshot/snapshot.aspx?id=F00000MEXO&tab=3
+2021-06-12 16:55:31,213 - INFO - No Dialog to Handle
+2021-06-12 16:55:44,741 - WARNING - Unable to switch to Factor Profile table details using button click for -->  F00000MEXO
+2021-06-12 16:55:46,912 - INFO - Unable to scrap details of Market Cap for  -->  F00000MEXO
+2021-06-12 16:55:52,201 - INFO - Successfully Loaded URL -->  https://www.morningstar.co.uk/uk/funds/snapshot/snapshot.aspx?id=F00000Y0PH&tab=3
+2021-06-12 16:56:06,811 - INFO - Detailes Scrapped Successfully for -->  F00000Y0PH
+2021-06-12 16:56:14,191 - INFO - Successfully Loaded URL -->  https://www.morningstar.co.uk/uk/funds/snapshot/snapshot.aspx?id=F0GBR06KYC&tab=3
+2021-06-12 16:56:28,506 - INFO - Detailes Scrapped Successfully for -->  F0GBR06KYC
+2021-06-12 16:56:32,695 - INFO - Successfully Loaded URL -->  https://www.morningstar.co.uk/uk/funds/snapshot/snapshot.aspx?id=F0GBR059Y0&tab=3
+2021-06-12 16:56:50,661 - INFO - Detailes Scrapped Successfully for -->  F0GBR059Y0
+2021-06-12 16:56:57,346 - INFO - Successfully Loaded URL -->  https://www.morningstar.co.uk/uk/funds/snapshot/snapshot.aspx?id=F00000MEXQ&tab=3
+2021-06-12 16:57:11,554 - INFO - Detailes Scrapped Successfully for -->  F00000MEXQ
+2021-06-12 16:57:18,342 - INFO - Successfully Loaded URL -->  https://www.morningstar.co.uk/uk/funds/snapshot/snapshot.aspx?id=F00000MQQW&tab=3
+2021-06-12 16:57:34,828 - INFO - Detailes Scrapped Successfully for -->  F00000MQQW
+2021-06-12 16:57:41,591 - INFO - Successfully Loaded URL -->  https://www.morningstar.co.uk/uk/funds/snapshot/snapshot.aspx?id=F00000NBKE&tab=3
+2021-06-12 16:57:58,557 - WARNING - Active Share Percent not available for -->  F00000NBKE
+2021-06-12 16:58:03,593 - INFO - Detailes Scrapped Successfully for -->  F00000NBKE
+2021-06-12 16:58:10,504 - INFO - Successfully Loaded URL -->  https://www.morningstar.co.uk/uk/funds/snapshot/snapshot.aspx?id=F0GBR06XR2&tab=3
+2021-06-12 16:58:27,500 - INFO - Successfully Loaded URL -->  https://www.morningstar.co.uk/uk/funds/snapshot/snapshot.aspx?id=F0GBR06XR2&tab=3
+2021-06-12 16:58:27,500 - INFO - No Dialog to handle for ---> F0GBR06XR2
+2021-06-12 16:58:37,806 - INFO - Successfully Loaded URL -->  https://www.morningstar.co.uk/uk/funds/snapshot/snapshot.aspx?id=F0GBR06XR2&tab=3
+2021-06-12 16:58:52,204 - INFO - Detailes Scrapped Successfully for -->  F0GBR06XR2
