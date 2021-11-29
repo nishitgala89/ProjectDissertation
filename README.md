@@ -34,6 +34,12 @@ The ML algorithms used in the process are as listed below
 
 ![image](https://user-images.githubusercontent.com/34972681/143924587-ba80eac8-2732-44f0-b1f3-c71ef6650e9d.png)
 
+***Aritificial Neural Network***
+![image](https://user-images.githubusercontent.com/34972681/143927059-5159db0c-90a8-4c0b-9743-4806b0917d4a.png)
+
+![image](https://user-images.githubusercontent.com/34972681/143927110-336c2a36-d58b-4aa1-aa1c-6c2d1c9e8b0a.png)
+
+
 
 ***Testing Metrics***
 
