@@ -31,18 +31,22 @@ The ML algorithms used in the process are as listed below
 **Part 1 - We have used the CV- 5fold cross validation**
 
 ***Training Metrics*** 
+
 ![image](https://user-images.githubusercontent.com/34972681/143924587-ba80eac8-2732-44f0-b1f3-c71ef6650e9d.png)
 
 
 ***Testing Metrics***
+
 ![image](https://user-images.githubusercontent.com/34972681/143924729-f40af0fc-5fc5-4678-9f6b-351711048d02.png)
 
 
 ***Confusion Matrix***
+
 ![image](https://user-images.githubusercontent.com/34972681/143926146-dbc110f4-35e6-46ac-b7fd-cd024cc18510.png)
 
 
 ***Model Generalization Check with Unseen data***
+
 ![image](https://user-images.githubusercontent.com/34972681/143924837-51e11167-df14-4787-84f1-7590eaa6e216.png)
 
 
