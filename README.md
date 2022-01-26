@@ -12,6 +12,19 @@ The ML algorithms used in the process are as listed below
 6. Artificial Neural Network
 7. Voting Classifier
 
+The features used for model training are described below
+
+| Features               | Type  | Description                                                                                                                                                              |
+|------------------------|-------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| GBRReturnM0            | Float | The values represent the Year to Date (YTD) returns of the respective fund as of 31/05/2021                                                                              |
+| GBRReturnM12           | Float | The values represent the FY returns of the respective fund for last FY                                                                                                   |
+| GBRReturnM36           | Float | The values represent the FY returns of the respective fund for last 3 FY’s                                                                                               |
+| GBRReturnM0            | Float | The values represent the Year to Date (YTD) returns of the respective fund as of 31/05/2021                                                                              |
+| Ongoing Cost Actual    | Float | The values represent the ongoing cost of the operation for the mutual fund including management fees, accountant fees, legal fees, marketing fees etc.                   |
+| Transaction Fee Actual | Float | The value represents the transaction fees charged by the mutual fund, It includes cost like broker commission, research commission, securities lending, taxes and levies |
+
+
+
 ## **Steps involved in the Project**
 1. Data Collection - Data is collected for equity Mutual Funds across UK, Europe developed and Asia develeoped geographies from Morningstar UK website. We have used Selenium    for Web Scrapping the data from Morningstar.
 2. Data Preparation - The Data is then prepared to remove the duplicate funds and cleansed using missing value, replacement, dropping un-necessary features, creating new        features using feature engineering
