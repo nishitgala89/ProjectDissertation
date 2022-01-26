@@ -15,7 +15,7 @@ The ML algorithms used in the process are as listed below
 ## **Steps involved in the Project**
 1. Data Collection - Data is collected for equity Mutual Funds across UK, Europe developed and Asia develeoped geographies from Morningstar UK website. We have used Selenium    for Web Scrapping the data from Morningstar.
 2. Data Preparation - The Data is then prepared to remove the duplicate funds and cleansed using missing value, replacement, dropping un-necessary features, creating new        features using feature engineering
-3. Modelling - The above listed algorithms are used for Modelling.
+3. Modelling - The above listed algorithms are used for Modelling.<br/>
 a) The algortihms are trained on UK, Europe developed geographies and the generalization check on unseen data is performed using Asia Developed geography. <br/>
 b) The above listed algorithms are used to predict the Mutual Fund Ratings. In modelling, we have used 5-fold cross validation along with metrics like F1-                        score, Balanced Accuracy, Confusion Matrix to validate evaluation of models.
 
@@ -43,7 +43,8 @@ As per the confusion matrix for model generalization, It is observed that the mo
 ### ***Approach 2: Models with Class weights***
 
 This approach uses below formula for class weight initialization.<br/>
-                  𝑤𝑗=𝑛_𝑠𝑎𝑚𝑝𝑙𝑒𝑠 / (𝑛_𝑐𝑙𝑎𝑠𝑠𝑒𝑠 ∗ 𝑛_𝑠𝑎𝑚𝑝𝑙𝑒𝑠𝑗)<br/>
+                 
+&emsp&emsp&emsp&emsp&emsp&emsp&emsp&emsp𝑤𝑗=𝑛_𝑠𝑎𝑚𝑝𝑙𝑒𝑠 / (𝑛_𝑐𝑙𝑎𝑠𝑠𝑒𝑠 ∗ 𝑛_𝑠𝑎𝑚𝑝𝑙𝑒𝑠𝑗)<br/>
 In the above formula, the n_samples refer to total training samples, n_classes is equal to 5 for the 5 rating of Morningstar and n_samplesj refers to the individual class sample count<br/>
 
 ### ***Approach 3: Stacked Model***
