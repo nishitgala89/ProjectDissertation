@@ -15,9 +15,9 @@ The ML algorithms used in the process are as listed below
 ## **Steps involved in the Project**
 1. Data Collection - Data is collected for equity Mutual Funds across UK, Europe developed and Asia develeoped geographies from Morningstar UK website. We have used Selenium    for Web Scrapping the data from Morningstar.
 2. Data Preparation - The Data is then prepared to remove the duplicate funds and cleansed using missing value, replacement, dropping un-necessary features, creating new        features using feature engineering
-3. Modelling -  a) The algortihms are trained on UK, Europe developed geographies and the generalization check on unseen data is performed using Asia Developed geography.
-                
-                b) The above listed algorithms are used to predict the Mutual Fund Ratings. In modelling, we have used 5-fold cross validation along with metrics like F1-                        score, Balanced Accuracy, Confusion Matrix to validate evaluation of models.
+3. Modelling - The above listed algorithms are used for Modelling.
+a) The algortihms are trained on UK, Europe developed geographies and the generalization check on unseen data is performed using Asia Developed geography.
+b) The above listed algorithms are used to predict the Mutual Fund Ratings. In modelling, we have used 5-fold cross validation along with metrics like F1-                        score, Balanced Accuracy, Confusion Matrix to validate evaluation of models.
 
 ## **Challenges Faced**
 
@@ -26,7 +26,8 @@ The ML algorithms used in the process are as listed below
 
 ## **Approach for building models**
 
-***Approach 1: Models without Class weights***
+### ***Approach 1: Models without Class weights***
+
 This is the basic approach to train all the algorithms using the default class weight intialization. 
 The Training and Evaluation metrics are as shown below and it is observed that neural network is the most efficient algorithm with higher accuracy, F1-score compared to all other algorithms. The classical ML model of Logistic regression outperforming the Boosting like XG Boost, Gradient Boosting and outperforming the Bagging algorithms like Random Forest and Bagging classifier. The confusion matrix for testing is shown in the figure 7.6 below. It clearly shows that majority of algorithms are performing well on the class 3, but not performing well on classes 1,5. Neural network model is performing exceedingly better on class 2,4 compared to other algorithms, whereas Bagging Classifier and Logistic regression are performing best on class 3.
 
@@ -39,14 +40,13 @@ The Training and Evaluation metrics are as shown below and it is observed that n
 As per the confusion matrix for model generalization, It is observed that the models are not generalizing well on class 1,2 with Neural Network model outperforming others. The Class 3, 4,5 has better prediction accuracy compared to class 1,2. It is also seen that almost all models performing well on class 3,4,5. Overall, the models are generalizing well with generalization metrics within the range of testing metrics. The only exception is Cat boost model that performs well only on class 4, and can choose to drop this model from the list of final models. Also, the generalization metrics for this algorithm is among the lowest. XG Boost algorithm is performing exceedingly well in predicting class 5 in the generalization test, however when looked upon testing metrics, it performs average in comparison to other models for the same class 5. These are some underlying issues that can be observed when comparing the generalization metrics with testing metrics. Logistic Regression, bagging classifier is the best algorithm in the generalization test for class 4, whereas Neural network model performs better in generalization test of class 3 compared to other algorithms.
 
 
-***Approach 2: Models with Class weights***
+### ***Approach 2: Models with Class weights***
+
 This approach uses below formula for class weight initialization. 
-
-𝑤𝑗=𝑛_𝑠𝑎𝑚𝑝𝑙𝑒𝑠 / (𝑛_𝑐𝑙𝑎𝑠𝑠𝑒𝑠 ∗ 𝑛_𝑠𝑎𝑚𝑝𝑙𝑒𝑠𝑗)
-
+                  𝑤𝑗=𝑛_𝑠𝑎𝑚𝑝𝑙𝑒𝑠 / (𝑛_𝑐𝑙𝑎𝑠𝑠𝑒𝑠 ∗ 𝑛_𝑠𝑎𝑚𝑝𝑙𝑒𝑠𝑗)
 In the above formula, the n_samples refer to total training samples, n_classes is equal to 5 for the 5 rating of Morningstar and n_samplesj refers to the individual class sample count
 
-***Approach 3: Stacked Model***
+### ***Approach 3: Stacked Model***
 In this approach, a custom stacked model is built comprising of a stack of ML models like Random Forest, XG Boost, Gradient Boost, Logistic Regression, bagging classifier feeding into a Linear Regression model with the architecture as shown in the below figure. This model was built using the concept of feeding the ML model predictions to a Linear Regression model which will then be used as a single final predictor that combines the output of all models and provides an output as a decimal value which will be rounded up as the final prediction
 
 ![image](https://user-images.githubusercontent.com/34972681/151155733-fdf03076-abd7-41c9-9893-cfea2ab961e6.png)
