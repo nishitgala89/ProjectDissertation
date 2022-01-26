@@ -2,29 +2,51 @@
 
 ## **Introduction**
 This project is a part of dissertation work as a student at Kingston University, London.
-This is a supervised machine learning project wherein we are trying to predict the Mutual Funds rating given by Morningstar based on the features captured. The objective is to check if we can replicate Morningstar's rating process through ML techniques.
+This is a supervised machine learning project wherein the goal is to predict the Mutual Funds rating given by Morningstar based on the features captured.
 The ML algorithms used in the process are as listed below
 1. Logistic Regression
 2. Random Forest
 3. Bagging Classifier with base estimator as Logistic Regression
-4. SVM
-5. XG Boost
-6. Cat Boost
-7. Artificial Neural Network
-8. Voting Classifier
+4. XG Boost
+5. Gradient Boost
+6. Artificial Neural Network
+7. Voting Classifier
 
 ## **Steps involved in the Project**
-1. Data Collection - Data is collected for equity Mutual Funds across UK, Europe developed and Asia develeoped geographies from Morningstar UK website. We have used Selenium for Web Scrapping the data from Morningstar.
-2. Data Preparation - The Data is then prepared to remove the duplicate funds and cleansed using missing value, replacement, dropping un-necessary features, creating new features using feature engineering
-3. Modelling - We have used the above listed Models to predict the Mutual Fund Ratings. In modelling, we have used 5-fold cross validation to check on Overfitting
+1. Data Collection - Data is collected for equity Mutual Funds across UK, Europe developed and Asia develeoped geographies from Morningstar UK website. We have used Selenium    for Web Scrapping the data from Morningstar.
+2. Data Preparation - The Data is then prepared to remove the duplicate funds and cleansed using missing value, replacement, dropping un-necessary features, creating new        features using feature engineering
+3. Modelling -  a) The algortihms are trained on UK, Europe developed geographies and the generalization check on unseen data is performed using Asia Developed geography.
+                b) The above listed algorithms are used to predict the Mutual Fund Ratings. In modelling, we have used 5-fold cross validation along with metrics like F1-                        score, Balanced Accuracy, Confusion Matrix to validate evaluation of models.
 
 ## **Challenges Faced**
 
-1. We faced the Overfitting issue initially wherein the training accuracy was very high (70-80%) and testing accuracy was very low (45-55%). So it was clear that model was overfitting to the training data.
-2. We observed that the original dataset had same funds repeated multiple times with different names but with same ratings from Morningstar, so we need to consider only 1 fund amond the group of funds for Modelling. We have used below groupby to identify the similar funds and then used the index from group by dataframe to remove the duplicate records.
-3. We performed modelling again and observed that Overfitting was gradually reduced and testing accuracy was nearby with training accuracy, but still we were seeing the model was overfitting to the training data.
-4. To check on overfitting,  We also ensured that dataset is divided into manual split of 75-25 wherein the top 75% data was used for Training and bottom 25% was used for Testing. After this step, we observed that all models was generalizing well and we were getting similar testing and training accuracy.
-5. Additionally, We also tried to perform oversampling of low frequency classes, however that did not help with overfitting.
+1. The algorithms were underfitting to training data and this was due to leakage of data as there were similar funds with different ID’s causing the algorithms to perform        better in testing. Similar funds with unique ID were identified using Group by and removed from the dataset. This reduced the data leakage in testing and thereby reducing    the underfitting.
+2. Identified the algorithms performing poorly on low frequency classes in a slightly imbalanced dataset by verifying the confusion matrix. With oversampling technique, the      performance metrics improved, however the model was overfitting to training set. 
+
+## **Approach for building models**
+
+***Approach 1: Models without Class weights***
+This is the basic approach to train all the algorithms using the default class weight intialization. 
+
+***Approach 2: Models with Class weights***
+This approach uses below formula for class weight initialization
+
+𝑤𝑗=𝑛_𝑠𝑎𝑚𝑝𝑙𝑒𝑠 / (𝑛_𝑐𝑙𝑎𝑠𝑠𝑒𝑠 ∗ 𝑛_𝑠𝑎𝑚𝑝𝑙𝑒𝑠𝑗)
+
+In the above formula, the n_samples refer to total training samples, n_classes is equal to 5 for the 5 rating of Morningstar and n_samplesj refers to the individual class sample count
+
+***Approach 3: Stacked Model***
+In this approach, a custom stacked model is built comprising of a stack of ML models like Random Forest, XG Boost, Gradient Boost, Logistic Regression, bagging classifier feeding into a Linear Regression model with the architecture as shown in the below figure. This model was built using the concept of feeding the ML model predictions to a Linear Regression model which will then be used as a single final predictor that combines the output of all models and provides an output as a decimal value which will be rounded up as the final prediction
+
+![image](https://user-images.githubusercontent.com/34972681/151155733-fdf03076-abd7-41c9-9893-cfea2ab961e6.png)
+
+
+***Approach 4: Target Class Reset***
+
+The prediction capability of the model with 5 rating categories was around 45 to 55 %. This might be due to the limited feature selection as available on the Morningstar website in public domain. So, another method of reducing the target class to 3 ratings was tried as per below table
+
+![image](https://user-images.githubusercontent.com/34972681/151156032-1a7fa105-5197-49e2-859b-16ce6f280ced.png)
+
 
 ## **Results**
 
