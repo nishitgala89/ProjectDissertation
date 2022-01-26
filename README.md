@@ -15,8 +15,9 @@ The ML algorithms used in the process are as listed below
 ## **Steps involved in the Project**
 1. Data Collection - Data is collected for equity Mutual Funds across UK, Europe developed and Asia develeoped geographies from Morningstar UK website. We have used Selenium    for Web Scrapping the data from Morningstar.
 2. Data Preparation - The Data is then prepared to remove the duplicate funds and cleansed using missing value, replacement, dropping un-necessary features, creating new        features using feature engineering
-3. Modelling -  * The algortihms are trained on UK, Europe developed geographies and the generalization check on unseen data is performed using Asia Developed geography.
-                * The above listed algorithms are used to predict the Mutual Fund Ratings. In modelling, we have used 5-fold cross validation along with metrics like F1-                        score, Balanced Accuracy, Confusion Matrix to validate evaluation of models.
+3. Modelling -  a) The algortihms are trained on UK, Europe developed geographies and the generalization check on unseen data is performed using Asia Developed geography.
+                
+                b) The above listed algorithms are used to predict the Mutual Fund Ratings. In modelling, we have used 5-fold cross validation along with metrics like F1-                        score, Balanced Accuracy, Confusion Matrix to validate evaluation of models.
 
 ## **Challenges Faced**
 
@@ -27,9 +28,19 @@ The ML algorithms used in the process are as listed below
 
 ***Approach 1: Models without Class weights***
 This is the basic approach to train all the algorithms using the default class weight intialization. 
+The Training and Evaluation metrics are as shown below and it is observed that neural network is the most efficient algorithm with higher accuracy, F1-score compared to all other algorithms. The classical ML model of Logistic regression outperforming the Boosting like XG Boost, Gradient Boosting and outperforming the Bagging algorithms like Random Forest and Bagging classifier. The confusion matrix for testing is shown in the figure 7.6 below. It clearly shows that majority of algorithms are performing well on the class 3, but not performing well on classes 1,5. Neural network model is performing exceedingly better on class 2,4 compared to other algorithms, whereas Bagging Classifier and Logistic regression are performing best on class 3.
+
+![image](https://user-images.githubusercontent.com/34972681/151157292-c079c976-783e-4178-9c31-b65639472da4.png)
+
+![image](https://user-images.githubusercontent.com/34972681/151157796-1d9f9ccc-5a3b-49e3-98f9-9f9aa54b4976.png)
+
+![image](https://user-images.githubusercontent.com/34972681/151157841-24eb6516-fb6c-44a4-bbae-c6041d9ca48d.png)
+
+As per the confusion matrix for model generalization, It is observed that the models are not generalizing well on class 1,2 with Neural Network model outperforming others. The Class 3, 4,5 has better prediction accuracy compared to class 1,2. It is also seen that almost all models performing well on class 3,4,5. Overall, the models are generalizing well with generalization metrics within the range of testing metrics. The only exception is Cat boost model that performs well only on class 4, and can choose to drop this model from the list of final models. Also, the generalization metrics for this algorithm is among the lowest. XG Boost algorithm is performing exceedingly well in predicting class 5 in the generalization test, however when looked upon testing metrics, it performs average in comparison to other models for the same class 5. These are some underlying issues that can be observed when comparing the generalization metrics with testing metrics. Logistic Regression, bagging classifier is the best algorithm in the generalization test for class 4, whereas Neural network model performs better in generalization test of class 3 compared to other algorithms.
+
 
 ***Approach 2: Models with Class weights***
-This approach uses below formula for class weight initialization
+This approach uses below formula for class weight initialization. 
 
 𝑤𝑗=𝑛_𝑠𝑎𝑚𝑝𝑙𝑒𝑠 / (𝑛_𝑐𝑙𝑎𝑠𝑠𝑒𝑠 ∗ 𝑛_𝑠𝑎𝑚𝑝𝑙𝑒𝑠𝑗)
 
@@ -46,38 +57,5 @@ In this approach, a custom stacked model is built comprising of a stack of ML mo
 The prediction capability of the model with 5 rating categories was around 45 to 55 %. This might be due to the limited feature selection as available on the Morningstar website in public domain. So, another method of reducing the target class to 3 ratings was tried as per below table
 
 ![image](https://user-images.githubusercontent.com/34972681/151156032-1a7fa105-5197-49e2-859b-16ce6f280ced.png)
-
-
-## **Results**
-
-**Part 1 - We have used the CV- 5fold cross validation**
-
-***Training Metrics*** 
-
-![image](https://user-images.githubusercontent.com/34972681/143924587-ba80eac8-2732-44f0-b1f3-c71ef6650e9d.png)
-
-***Aritificial Neural Network***
-
-![image](https://user-images.githubusercontent.com/34972681/143927059-5159db0c-90a8-4c0b-9743-4806b0917d4a.png)
-
-![image](https://user-images.githubusercontent.com/34972681/143927110-336c2a36-d58b-4aa1-aa1c-6c2d1c9e8b0a.png)
-
-
-
-***Testing Metrics***
-
-![image](https://user-images.githubusercontent.com/34972681/143924729-f40af0fc-5fc5-4678-9f6b-351711048d02.png)
-
-
-***Confusion Matrix***
-
-![image](https://user-images.githubusercontent.com/34972681/143926146-dbc110f4-35e6-46ac-b7fd-cd024cc18510.png)
-
-
-***Model Generalization Check with Unseen data***
-
-![image](https://user-images.githubusercontent.com/34972681/143924837-51e11167-df14-4787-84f1-7590eaa6e216.png)
-
-
 
 
